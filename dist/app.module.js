@@ -13,6 +13,7 @@ const mensagens_controller_1 = require("./mensagens/mensagens.controller");
 const typeorm_1 = require("@nestjs/typeorm");
 const mensagens_service_1 = require("./mensagens/mensagens.service");
 const mensagem_entity_1 = require("./mensagens/entities/mensagem.entity");
+const pessoa_repository_1 = require("./repository/pessoa.repository");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
@@ -31,7 +32,7 @@ AppModule = __decorate([
             typeorm_1.TypeOrmModule.forFeature([mensagem_entity_1.Mensagem])
         ],
         controllers: [app_controller_1.AppController, mensagens_controller_1.MensagensController],
-        providers: [app_service_1.AppService, mensagens_service_1.MensagensService],
+        providers: [app_service_1.AppService, mensagens_service_1.MensagensService, pessoa_repository_1.PessoaRepository],
     })
 ], AppModule);
 exports.AppModule = AppModule;

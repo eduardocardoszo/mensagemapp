@@ -2089,158 +2089,6 @@
         "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": {
-        "version": "80d24524ea6cfa0c950907bcb1da9bebf6a17083c386e9ea6556db134bb42a41",
-        "signature": "d9bff320cafabb4e5377df65f00ab31c378f33aff3557dba72587e87abaebdcd"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": {
-        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
-        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": {
-        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
-        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": {
-        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
-        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": {
-        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
-        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": {
-        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
-        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": {
-        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
-        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": {
-        "version": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b",
-        "signature": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": {
-        "version": "1365b373354f661f556005add1241c5fd92b8440ce3293d8890b57a66c7f6ec4",
-        "signature": "e6d5ffd8274a4166236e1ea61f258049c3eb06f34ab9f405a0c8de40e4ce430e"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts": {
-        "version": "444feb267633eb9aea35b725bbddf8595f8042eaeb893d1e0b63a4c32f8beebf",
-        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
-        "version": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7",
-        "signature": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": {
-        "version": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
-        "signature": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": {
-        "version": "3476ab8d8fe0932f0344d205c998c2783f5d1da12c5f2876daaab5ef4bd34460",
-        "signature": "3476ab8d8fe0932f0344d205c998c2783f5d1da12c5f2876daaab5ef4bd34460"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": {
-        "version": "8a7bd91ceaadc305dd05acb95123fb4244e6e11b7490ee0ed3e0d46988a23b62",
-        "signature": "8a7bd91ceaadc305dd05acb95123fb4244e6e11b7490ee0ed3e0d46988a23b62"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": {
-        "version": "b4f3ef805e9165e1dd00c3acac1c7913c1f40c5110a6ed8d6dd1b421ab7fa948",
-        "signature": "b4f3ef805e9165e1dd00c3acac1c7913c1f40c5110a6ed8d6dd1b421ab7fa948"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": {
-        "version": "0a05534ac178d2df73759cc43588996558496291c41daf6090708b61230f8f75",
-        "signature": "0a05534ac178d2df73759cc43588996558496291c41daf6090708b61230f8f75"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": {
-        "version": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
-        "signature": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": {
-        "version": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2",
-        "signature": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": {
-        "version": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7",
-        "signature": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": {
-        "version": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
-        "signature": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": {
-        "version": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
-        "signature": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": {
-        "version": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb",
-        "signature": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": {
-        "version": "a54f4e830c537bd7c67b649c54a78931687628a1d9130341e41af0fc6fe6bc45",
-        "signature": "a54f4e830c537bd7c67b649c54a78931687628a1d9130341e41af0fc6fe6bc45"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": {
-        "version": "512cbbc5713d6fe49ecf740bde050302f954e0a50d22badc78854283681f91e9",
-        "signature": "512cbbc5713d6fe49ecf740bde050302f954e0a50d22badc78854283681f91e9"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": {
-        "version": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
-        "signature": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": {
-        "version": "052cdfe6d8e817bdf8b06da41ae738f4d787764aa05fbac08d5584e5b402c240",
-        "signature": "052cdfe6d8e817bdf8b06da41ae738f4d787764aa05fbac08d5584e5b402c240"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": {
-        "version": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
-        "signature": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": {
-        "version": "6d3d77e5fa97729ca1b7e7905c148da03945981db97d3bb8b3109844fe4e9c2f",
-        "signature": "6d3d77e5fa97729ca1b7e7905c148da03945981db97d3bb8b3109844fe4e9c2f"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": {
-        "version": "ae784e9d66abeab32be472f5725a0c7f10469eac0f3463b75810b5a7b02e1bee",
-        "signature": "ae784e9d66abeab32be472f5725a0c7f10469eac0f3463b75810b5a7b02e1bee"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": {
-        "version": "e93eef79b6bdaaf6337f64632e421b89e8526b4104a18cc3f02dffd2e391aef4",
-        "signature": "e93eef79b6bdaaf6337f64632e421b89e8526b4104a18cc3f02dffd2e391aef4"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": {
-        "version": "ab6155da16665bf26655693abea86db88346d3ab3a86783584655251cedf96e9",
-        "signature": "ab6155da16665bf26655693abea86db88346d3ab3a86783584655251cedf96e9"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": {
-        "version": "ccf022f436b749333f2fcb10eb2061f8fdf87729b6a6524413a02a7bbcb34d67",
-        "signature": "ccf022f436b749333f2fcb10eb2061f8fdf87729b6a6524413a02a7bbcb34d67"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": {
-        "version": "92caa735701187eb89d8cbdf0071aac80bc56c6eb057ae3d818e09d17af9ec48",
-        "signature": "92caa735701187eb89d8cbdf0071aac80bc56c6eb057ae3d818e09d17af9ec48"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": {
-        "version": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
-        "signature": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": {
-        "version": "35aaf71948ef655539e398dfffabbef3055671070502ff19d8e548e8a23b4460",
-        "signature": "35aaf71948ef655539e398dfffabbef3055671070502ff19d8e548e8a23b4460"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": {
-        "version": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
-        "signature": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": {
-        "version": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe",
-        "signature": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts": {
-        "version": "e25d9bd8f80b6ffbcc8826ed1b407e747e4fbe346c5bab62cbe5837da4eeb189",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
-      },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-log/dist/index.d.ts": {
         "version": "b8052a7fd607604bd92ad93cfb699b67fa84451deb396a0268fc25f846f8dc9e",
         "signature": "b8052a7fd607604bd92ad93cfb699b67fa84451deb396a0268fc25f846f8dc9e"
@@ -2901,6 +2749,114 @@
         "version": "2759a5845718663d1950629a1794f2fd991fd6e1e17df50bacca917f111b7267",
         "signature": "2759a5845718663d1950629a1794f2fd991fd6e1e17df50bacca917f111b7267"
       },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": {
+        "version": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
+        "signature": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
+        "version": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7",
+        "signature": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": {
+        "version": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
+        "signature": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": {
+        "version": "3476ab8d8fe0932f0344d205c998c2783f5d1da12c5f2876daaab5ef4bd34460",
+        "signature": "3476ab8d8fe0932f0344d205c998c2783f5d1da12c5f2876daaab5ef4bd34460"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": {
+        "version": "8a7bd91ceaadc305dd05acb95123fb4244e6e11b7490ee0ed3e0d46988a23b62",
+        "signature": "8a7bd91ceaadc305dd05acb95123fb4244e6e11b7490ee0ed3e0d46988a23b62"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": {
+        "version": "b4f3ef805e9165e1dd00c3acac1c7913c1f40c5110a6ed8d6dd1b421ab7fa948",
+        "signature": "b4f3ef805e9165e1dd00c3acac1c7913c1f40c5110a6ed8d6dd1b421ab7fa948"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": {
+        "version": "0a05534ac178d2df73759cc43588996558496291c41daf6090708b61230f8f75",
+        "signature": "0a05534ac178d2df73759cc43588996558496291c41daf6090708b61230f8f75"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": {
+        "version": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
+        "signature": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": {
+        "version": "a54f4e830c537bd7c67b649c54a78931687628a1d9130341e41af0fc6fe6bc45",
+        "signature": "a54f4e830c537bd7c67b649c54a78931687628a1d9130341e41af0fc6fe6bc45"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": {
+        "version": "512cbbc5713d6fe49ecf740bde050302f954e0a50d22badc78854283681f91e9",
+        "signature": "512cbbc5713d6fe49ecf740bde050302f954e0a50d22badc78854283681f91e9"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": {
+        "version": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
+        "signature": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": {
+        "version": "052cdfe6d8e817bdf8b06da41ae738f4d787764aa05fbac08d5584e5b402c240",
+        "signature": "052cdfe6d8e817bdf8b06da41ae738f4d787764aa05fbac08d5584e5b402c240"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": {
+        "version": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
+        "signature": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": {
+        "version": "6d3d77e5fa97729ca1b7e7905c148da03945981db97d3bb8b3109844fe4e9c2f",
+        "signature": "6d3d77e5fa97729ca1b7e7905c148da03945981db97d3bb8b3109844fe4e9c2f"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": {
+        "version": "ae784e9d66abeab32be472f5725a0c7f10469eac0f3463b75810b5a7b02e1bee",
+        "signature": "ae784e9d66abeab32be472f5725a0c7f10469eac0f3463b75810b5a7b02e1bee"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": {
+        "version": "e93eef79b6bdaaf6337f64632e421b89e8526b4104a18cc3f02dffd2e391aef4",
+        "signature": "e93eef79b6bdaaf6337f64632e421b89e8526b4104a18cc3f02dffd2e391aef4"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": {
+        "version": "ab6155da16665bf26655693abea86db88346d3ab3a86783584655251cedf96e9",
+        "signature": "ab6155da16665bf26655693abea86db88346d3ab3a86783584655251cedf96e9"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": {
+        "version": "ccf022f436b749333f2fcb10eb2061f8fdf87729b6a6524413a02a7bbcb34d67",
+        "signature": "ccf022f436b749333f2fcb10eb2061f8fdf87729b6a6524413a02a7bbcb34d67"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": {
+        "version": "92caa735701187eb89d8cbdf0071aac80bc56c6eb057ae3d818e09d17af9ec48",
+        "signature": "92caa735701187eb89d8cbdf0071aac80bc56c6eb057ae3d818e09d17af9ec48"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": {
+        "version": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
+        "signature": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": {
+        "version": "35aaf71948ef655539e398dfffabbef3055671070502ff19d8e548e8a23b4460",
+        "signature": "35aaf71948ef655539e398dfffabbef3055671070502ff19d8e548e8a23b4460"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": {
+        "version": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
+        "signature": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": {
+        "version": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe",
+        "signature": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": {
+        "version": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb",
+        "signature": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": {
+        "version": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2",
+        "signature": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": {
+        "version": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7",
+        "signature": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": {
+        "version": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
+        "signature": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488"
+      },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/nest-microservice.d.ts": {
         "version": "cf1c16fc8160d17f6ac9225ddcad63469e90141d7b2cdb44ccd9fbfd717973a3",
         "signature": "cf1c16fc8160d17f6ac9225ddcad63469e90141d7b2cdb44ccd9fbfd717973a3"
@@ -2973,9 +2929,41 @@
         "version": "894800ce89b3e8b8f4f02d00839970b5031cb8f8220a4c9c9fee539bf59905b8",
         "signature": "894800ce89b3e8b8f4f02d00839970b5031cb8f8220a4c9c9fee539bf59905b8"
       },
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/repository/pessoa.repository.ts": {
-        "version": "c6c45d54a6beb3e751106351b02f00d4f48c0753d7181c6b6540165c026fb932",
-        "signature": "ae996db87a2d72b8a16ea04a53a191a92678b2a792ba4fc6c56009e95d5a463d"
+      "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts": {
+        "version": "972e253f6dbce57f0cc0167851a1575f2a0f28590c4164f1b33cfe30d637c307",
+        "signature": "8d0edae3f24d8b7ac999cc14c988b4085939167a03851be200e187124216f50d"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": {
+        "version": "93fdcfee61480ee75c4587ded70912c75354479a5f5369fffeb972a81fa346eb",
+        "signature": "520f7f6e420c78f59d0f8a90a52b5d58fc9e407e95567c21f663da08de186348"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
+        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": {
+        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
+        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": {
+        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
+        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": {
+        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
+        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": {
+        "version": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b",
+        "signature": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b"
       },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts": {
         "version": "ca248f650c19abc031e2aaafa41fceb524378b1a2249905b44d1c8e4148fcb52",
@@ -3009,20 +2997,16 @@
         "version": "0a33b8bff876368beef794f5f08e8221103efa394f9e0e27e19f557a8cdaa0a0",
         "signature": "0a33b8bff876368beef794f5f08e8221103efa394f9e0e27e19f557a8cdaa0a0"
       },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": {
-        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
-        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": {
+        "version": "0541bff48f7c750f26f298aa6469b56de2481877c13d190c1d8076ac7e52803b",
+        "signature": "c06d642ae71836ff4034e710e1905ae8c74422ce8ed1c9ce4fd64f9f1446e15b"
       },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": {
-        "version": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c",
-        "signature": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c"
+      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts": {
+        "version": "c66c2e5dceb3c674687b74da66fed7cc7af15f0868587d5c7b762e64ad6f0359",
+        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644"
       },
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": {
-        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
-        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
-      },
-      "/home/eduardo/MS/workspace/mensagemapp/test/app.e2e-spec.ts": {
-        "version": "1e93c560aff2f9b333b256365b0109b48f75109c1bcd32bc89326598f5349c85",
+      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts": {
+        "version": "e25d9bd8f80b6ffbcc8826ed1b407e747e4fbe346c5bab62cbe5837da4eeb189",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/babel__generator/index.d.ts": {
@@ -3052,6 +3036,10 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/bytebuffer/index.d.ts": {
         "version": "9a271183da07858e3ccfaab9ce7dbe1e6dd9e670a9dc79df7550152f6726e29f",
         "signature": "9a271183da07858e3ccfaab9ce7dbe1e6dd9e670a9dc79df7550152f6726e29f"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": {
+        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
+        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
       },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
         "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
@@ -3105,6 +3093,14 @@
         "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
         "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
       },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": {
+        "version": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c",
+        "signature": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c"
+      },
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": {
+        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
+        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
+      },
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/yargs/index.d.ts": {
         "version": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5",
         "signature": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5"
@@ -3121,8 +3117,9 @@
       "outDir": "/home/eduardo/MS/workspace/mensagemapp/dist",
       "baseUrl": "/home/eduardo/MS/workspace/mensagemapp/",
       "incremental": true,
-      "project": "/home/eduardo/MS/workspace/mensagemapp/tsconfig.json",
-      "configFilePath": "/home/eduardo/MS/workspace/mensagemapp/tsconfig.json"
+      "project": "tsconfig.build.json",
+      "watch": true,
+      "configFilePath": "/home/eduardo/MS/workspace/mensagemapp/tsconfig.build.json"
     },
     "referencedMap": {
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/typescript/lib/lib.es5.d.ts": [
@@ -6437,268 +6434,6 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/typeorm/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/rxjs/internal/scheduler/async.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/events.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@babel/types/lib/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/app.controller.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/app.service.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/middleware-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/reflect-metadata/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-log/dist/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
@@ -7684,6 +7419,190 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/middleware-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/reflect-metadata/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/nest-microservice.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
@@ -7810,9 +7729,62 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/repository/pessoa.repository.ts": [
+      "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/typeorm/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/rxjs/internal/scheduler/async.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/events.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -7872,27 +7844,30 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/fs.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/https.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/stream.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/test/app.e2e-spec.ts": [
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@babel/types/lib/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/app.controller.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/app.service.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
@@ -7934,6 +7909,10 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/bytebuffer/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/long/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -7998,6 +7977,20 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/stack-utils/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/fs.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/https.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/stream.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -11302,241 +11295,6 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/typeorm/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/events.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/middleware-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/reflect-metadata/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-log/dist/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
@@ -12522,6 +12280,190 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/middleware/middleware-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/reflect-metadata/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/nest-microservice.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
@@ -12648,8 +12590,53 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/repository/pessoa.repository.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/index.d.ts"
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/typeorm/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/entities/mensagem.entity.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/events.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/http.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
@@ -12707,23 +12694,9 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/fs.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/https.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/stream.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": [
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
-        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/dto/create-mensagens-dto.ts"
       ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/babel__generator/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@babel/types/lib/index.d.ts",
@@ -12762,6 +12735,10 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/bytebuffer/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/long/index.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -12829,9 +12806,26 @@
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/fs.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/https.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/stream.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/yargs/index.d.ts": [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/util.d.ts",
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts": [
+        "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -13357,44 +13351,6 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/dist/typeorm.module.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/dist/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/typeorm/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-log/dist/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-utils/dist/controller/base.controller.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/node_modules/vivo-nodejs-utils/dist/repository/base.repository.d.ts",
@@ -13560,6 +13516,33 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/exceptions/base-rpc-exception-filter.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/exceptions/rpc-exception.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/exceptions/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/modules-container.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/adapters/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/constants.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/helpers/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/exceptions/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module-ref.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/builder.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/middleware/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application-context.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-application.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/nest-factory.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/request-constants.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/request/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/router/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/reflector.service.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/services/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/container.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/module.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/application-config.d.ts",
       [
         "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/microservices/nest-microservice.d.ts",
         [
@@ -13599,7 +13582,13 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/express.commons.config.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/fastify.commons.config.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/vivo-nodejs-commons/dist/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/repository/pessoa.repository.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/range-parser/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express-serve-static-core/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/mime/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/serve-static/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/connect/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/body-parser/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/express/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/core/metadata-scanner.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/testing-module.d.ts",
@@ -13608,10 +13597,6 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/interfaces/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/test.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@nestjs/testing/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/test/app.e2e-spec.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/babel__generator/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/babel__traverse/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -13619,6 +13604,7 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/babel__core/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/long/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/bytebuffer/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/cookiejar/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/istanbul-lib-coverage/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/istanbul-lib-report/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/istanbul-reports/index.d.ts",
@@ -13632,7 +13618,14 @@
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/csstype/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/react/index.d.ts",
       "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/stack-utils/index.d.ts",
-      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/yargs/index.d.ts"
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/superagent/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/supertest/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/node_modules/@types/yargs/index.d.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/src/repository/pessoa.repository.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.service.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/src/mensagens/mensagens.controller.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/src/app.module.ts",
+      "/home/eduardo/MS/workspace/mensagemapp/src/main.ts"
     ]
   },
   "version": "3.4.3"

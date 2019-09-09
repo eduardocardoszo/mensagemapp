@@ -7,4 +7,5 @@ export declare class MensagensController {
     getAll(response: any): void;
     update(createMensagemDto: CreateMensagemDto, response: any, idMensagem: any): void;
     delete(response: any, idMensagem?: any, nick?: any): void;
+    getByID(idMensagem: any): Promise<object>;
 }

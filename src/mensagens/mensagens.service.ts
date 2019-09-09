@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 import { InjectRepository } from '@nestjs/typeorm';
 import { async } from 'rxjs/internal/scheduler/async';
 import { CreateMensagemDto } from './dto/create-mensagens-dto';
+import { PessoaRepository } from '../repository/pessoa.repository';
 
 
 @Injectable()
@@ -11,11 +12,16 @@ export class MensagensService {
 
     constructor(
         @InjectRepository(Mensagem)
-        private readonly mensagemRepository: Repository<Mensagem>
+        private readonly mensagemRepository: Repository<Mensagem>,
+        private readonly pessoaRepository: PessoaRepository
     ) { }
 
     async getAll(): Promise<Mensagem[]> {
         return await this.mensagemRepository.find();
+    }
+
+    async getMensagem(idMensagem: number): Promise<Mensagem> {
+        return await this.mensagemRepository.findOne(idMensagem)
     }
 
     async createMensagem(mensagemNova: CreateMensagemDto): Promise<Mensagem> {
@@ -39,12 +45,18 @@ export class MensagensService {
     async deleteMensagem(idMensagem?: number, nick?: string): Promise<any> {
         let res;
         if (idMensagem) {
-             res = await this.mensagemRepository.delete(idMensagem)
-             console.log('Deletado por ID!')
+            res = await this.mensagemRepository.delete(idMensagem)
+            console.log('Deletado por ID!')
         } if (nick) {
             res = await this.mensagemRepository.createQueryBuilder().delete().where("nick= :nick", { nick: nick }).execute()
             console.log('Deletado por NICK!')
-            }
+        }
         return res;
     }
+
+    teste(idTeste: number): Promise<object> {
+        return this.pessoaRepository.buscarListaPessoas(idTeste)
+
+    }
+
 }

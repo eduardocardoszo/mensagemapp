@@ -5,6 +5,7 @@ import { MensagensController } from './mensagens/mensagens.controller';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { MensagensService } from './mensagens/mensagens.service';
 import { Mensagem } from './mensagens/entities/mensagem.entity';
+import { PessoaRepository } from './repository/pessoa.repository';
 
 @Module({
   imports: [
@@ -21,6 +22,6 @@ import { Mensagem } from './mensagens/entities/mensagem.entity';
     TypeOrmModule.forFeature([Mensagem])
   ],
   controllers: [AppController, MensagensController],
-  providers: [AppService, MensagensService],
+  providers: [AppService, MensagensService, PessoaRepository],
 })
 export class AppModule {}

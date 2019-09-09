@@ -47,6 +47,9 @@ let MensagensController = class MensagensController {
             response.status(common_1.HttpStatus.FORBIDDEN).json({ mensagem: 'Erro na remocao da mensagens!' });
         });
     }
+    getByID(idMensagem) {
+        return this.mensagemServices.teste(idMensagem);
+    }
 };
 __decorate([
     common_1.Post(),
@@ -76,6 +79,13 @@ __decorate([
     __metadata("design:paramtypes", [Object, Object, Object]),
     __metadata("design:returntype", void 0)
 ], MensagensController.prototype, "delete", null);
+__decorate([
+    common_1.Get(':id'),
+    __param(0, common_1.Param('id')),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [Object]),
+    __metadata("design:returntype", void 0)
+], MensagensController.prototype, "getByID", null);
 MensagensController = __decorate([
     common_1.Controller('mensagens'),
     __metadata("design:paramtypes", [mensagens_service_1.MensagensService])

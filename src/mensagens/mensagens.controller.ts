@@ -3,6 +3,7 @@ import { CreateMensagemDto } from './dto/create-mensagens-dto';
 import { updateExpression } from '@babel/types';
 import { MensagensService } from './mensagens.service';
 import { response } from 'express';
+import { TestingModule } from '@nestjs/testing';
 
 
 @Controller('mensagens')
@@ -49,5 +50,11 @@ export class MensagensController {
                 response.status(HttpStatus.FORBIDDEN).json({ mensagem: 'Erro na remocao da mensagens!' })
             })
 
+    }
+
+    @Get(':id')
+    getByID(@Param('id') idMensagem){
+        //return this.mensagemServices.getMensagem(idMensagem)
+        return this.mensagemServices.teste(idMensagem)
     }
 }
